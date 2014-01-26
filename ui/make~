@@ -1,0 +1,6 @@
+pyuic4 main_Xlive.ui -o ../lib/widgets/main_Xlive.py
+pyuic4 widget_BeamlineStatus.ui -o ../lib/widgets/widget_BeamlineStatus.py
+pyuic4 widget_ExperimentDesign.ui -o ../lib/widgets/widget_ExperimentDesign.py
+pyuic4 indicator_pv_status_vertical.ui -o ../lib/widgets/indicator_pv_status_vertical.py
+pyuic4 indicator_pv_status_horizontal.ui -o ../lib/widgets/indicator_pv_status_horizontal.py
+pyuic4 a.ui -o ../lib/widgets/a.py
